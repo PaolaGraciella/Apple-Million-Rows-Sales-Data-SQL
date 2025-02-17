@@ -1,4 +1,5 @@
 # Apple-Million-Rows-Sales-Data-SQL
+![image](https://github.com/user-attachments/assets/de3c758f-067d-43c9-9eec-baec393b27d0)
 
 --- 
 
@@ -99,6 +100,7 @@ The project is split into three tiers of questions to test SQL skills of increas
 18. Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
 19. Identify the store with the highest percentage of "Paid Repaired" claims relative to total claims filed.
 20. Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
+![Capture d’écran 2025-02-17 120103](https://github.com/user-attachments/assets/a4e404a6-11bd-417e-9052-30be63e93503)
 
 ### Bonus Question 
 - Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
